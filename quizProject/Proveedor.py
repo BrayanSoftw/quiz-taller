@@ -1,2 +1,5 @@
 print ("La Montaña")
 print ("Don Julio")
+print ("Lecherita Laurita")
+print ("Cafe Don Arturo")
+print ("Arepas Don Paisa")
